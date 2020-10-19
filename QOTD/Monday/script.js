@@ -28,16 +28,16 @@ function inIframe() {
 		];
 
 var quotes = [
-    ["You only live once, but if you do it right, once is enough.","Mae West"],
-    ["I am so clever that sometimes I don't understand a single word of what I am saying.","Oscar Wilde"],
-    ["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.","Albert Einstein"],
-	["The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science.","Albert Einstein"]
-	["It is our choices, Harry, that show what we truly are, far more than our abilities.","J.K. Rowling, Harry Potter and the Chamber of Secrets"],
-	["All men who have turned out worth anything have had the chief hand in their own education.","Walter Scott"],
-	["Trust yourself. You know more than you think you do.","Benjamin Spock"],
-	["No one can make you feel inferior without your consent.","Eleanor Roosevelt, This is My Story"],
-	["To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.","Ralph Waldo Emerson"],
-	["Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.","H. Jackson Brown Jr., P.S. I Love You"]
+    ["Just another Magic Monday.","Unknown"],
+    ["One day or day one. You decide.","Unknown"],
+    ["It’s Monday… time to motivate and make dreams and goals happen. Let’s go!","Heather Stillufsen"],
+	["It was a Monday and they walked on a tightrope to the sun.","Marcus Zusak"]
+	["Goodbye blue Monday.","Kurt Vonnegut"],
+	["So. Monday. We meet again. We will never be friends—but maybe we can move past our mutual enmity toward a more-positive partnership.","Julio-Alexi Genao"],
+	["When life gives you Monday, dip it in glitter and sparkle all day.","Ella Woodword"],
+	["Monday c’est Mon Day.","Unknown"],
+	["All Motivation Mondays need are a little more coffee and a lot more mascara.","Unknown"],
+	["I’m alive, motivated and ready to slay the day #MONSLAY.","Unknown"]
 	];
 
 
